@@ -8,5 +8,8 @@
 
     git clone https://github.com/BilgeGates/Calculator-App.git 
 
+<h3>
+<a href="https://stellular-taffy-414d3a.netlify.app">Live Demo</a>
+</h3>
 
 ## Haven a nice day!
